@@ -2,7 +2,7 @@
 ʚ Este é o meu primeiro dashboard completo, desenvolvido como projeto prático para aprendizado autônomo. ɞ
 
 ## Descrição do Projeto .𖥔 ݁ ˖
-Este projeto representa meu ** primeiro dashboard completo**, desenvolvido como iniciativa de aprendizado autônomo em Power BI, pipeline de dados, e outras ferramentas. O objetivo foi criar um ambiente de análise de dados realista, aplicando boas práticas de visualização, organização e preparação de dados, além de explorar automações com Python (Pandas) para transformação, limpeza e envio automatizado de métricas.
+Este projeto representa meu **primeiro dashboard completo** , desenvolvido como iniciativa de aprendizado autônomo em Power BI, pipeline de dados, e outras ferramentas. O objetivo foi criar um ambiente de análise de dados realista, aplicando boas práticas de visualização, organização e preparação de dados, além de explorar automações com Python (Pandas) para transformação, limpeza e envio automatizado de métricas.
 O projeto simulou um cenário real de negócios, onde a definição de métricas e indicadores foi planejada estrategicamente, priorizando insights relevantes para a tomada de decisão.
 
 ---
