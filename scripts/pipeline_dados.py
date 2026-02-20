@@ -1,2 +1,3 @@
-def gerar_relatorio():
-    print("Relatório gerado com sucesso!")
+import pandas as pd
+import smtplib
+from email.message import EmailMessage
